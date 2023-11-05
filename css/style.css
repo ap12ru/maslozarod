@@ -1,1 +1,95 @@
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
 
+	font-size: 40px;
+	line-height: 1.2;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+}
+
+.block1 {
+	width: 1903px;
+	height: 955px;
+	background-image: url("images/pencil228.jpg");
+}
+
+.wasd {
+	text-align: center;
+	padding-top: 318px;
+	font-size: 120px;
+	color: #333;
+	font-family: 'Montserrat';
+}
+
+.block2 {
+	width: 1903px;
+	height: 955px;
+	background-image: url("images/background2.jpg");
+}
+
+.qwerty {
+	text-align: center;
+	padding-top: 50px;
+	font-size: 80px;
+	color: #333;
+	font-family: 'Montserrat';
+}
+
+.zxc {
+	text-align: center;
+	padding-top: 20px;
+	font-size: 32px;
+	color: #333;
+	font-family: 'Pangolin';
+}
+
+.fgh {
+	text-align: center;
+	padding-top: 80px;
+	font-size: 25px;
+	color: #666666;
+	font-family: 'Roboto Slab';
+}
+
+.block3 {
+	width: 1903px;
+	height: 955px;
+	background-image: url("images/background3.jpg");
+}
+
+.block4 {
+	width: 1903px;
+	height: 955px;
+	background-image: url("images/bga4.jpg");
+}
+
+.block5 {
+	width: 1903px;
+	height: 955px;
+	background-image: url("images/bga4.jpg");
+}
+
+.img1 {
+	display: block;
+	margin: auto;
+	scale: 120%;
+	opacity: 70%;
+}
+
+.img2 {
+	display: block;
+	margin: auto;
+	scale: 15%;
+	opacity: 80%;
+}
+
+.img3 {
+	display: block;
+	margin: auto;
+	scale: 120%;
+	opacity: 90%;
+}
